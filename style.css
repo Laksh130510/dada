@@ -1,0 +1,18 @@
+body
+{
+    background: aqua;
+}
+h1
+{
+    color: red;
+    font-size: 5em;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+i
+{
+    display: flex;
+}
